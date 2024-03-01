@@ -1,5 +1,5 @@
 # Hola, em dic Xavier Rabert
-## Desenvolupador web júnior
+## Desenvolupador web 
 
 Soc tècnic superior en desenvolupament d'aplicacions informàtiques des de fa més de 15 anys.
 
