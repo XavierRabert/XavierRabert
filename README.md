@@ -10,7 +10,7 @@
 
 - :mount_fuji: If you want to find me in my free time, I'll be on a mountain
 
-I'm a developer since 20 years ago, developing applications for a business management and remote sale points. I was developing a PLC software for an industrial technologies such Siemens or Allen Bradley among others.
+I have been a developer for 20 years, developing applications for business management and remote points of sale. I was developing PLC software with industrial technologies such as Siemens or Allen Bradley among others.
 
 In actually I'm currently working with web frameworks such as javascript, React and Angular, managing the functionalities and following the designs rules.
 
