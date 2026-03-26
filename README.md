@@ -1,26 +1,55 @@
-# Hi, I'm Xavier Rabert
+## About me
 
-## Frontend web developer
+I'm a frontend developer specialized in **React** and **Angular**, focused on building scalable applications, design systems, and clean user experiences.
 
-- :computer: I’m currently working as a frontend developer
-- 🌱 I’m currently learning Angular, Astro and NodeJS
-- 👯 I’m looking to collaborate on new projects
-- 💬 Ask me about web technologies
-- 📫 How to reach me: xrabert@gmail.com
-- :earth_africa: You can know about me: www.xavierrabert.com
+I also work with **AI and automation**, creating workflows and tools that improve productivity and simplify complex processes.
 
-- :mount_fuji: If you want to find me in my free time, I'll be on a mountain
+My background in industrial automation and business software shaped a strong engineering mindset that I bring into modern web development.
 
-I have been a developer for 20 years, developing applications for business management and remote points of sale. I was developing PLC software with industrial technologies such as Siemens or Allen Bradley among others.
+When I'm not coding, you'll find me somewhere in the mountains. 🏔️
 
-In actually I'm currently working with web frameworks such as javascript, React and Angular, managing the functionalities and following the designs rules.
+---
 
-I'm also passionate about learning a backend skills like node Js, nest Js, and c#. I hope to be able to show off my new Unity skills when I finish the course I'm doing
+## Featured projects
 
-### You can find me on:
+| Project                   | Stack                | Description                                          | Links                                                                                                                 |
+| ------------------------- | -------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| 🚀 SpaceX Mission Control | Angular · TypeScript | SpaceX API explorer — launches, rockets and missions | [repo](https://github.com/XavierRabert/spacex-mission-control-angular) · [demo](https://landing-space-x.netlify.app/) |
+| 🎬 Movie & TV Browser     | React · JavaScript   | Browse movies and TV shows using The Movie DB API    | [repo](https://github.com/XavierRabert/Movies) · [demo](https://landing-react-movies.netlify.app/)                    |
+| 🌐 SEO amb Talons         | Astro                | SEO consultancy website — designed and built by me   | [repo](https://github.com/laiaxarau/seoambtalons) · [web](https://seoambtalons.cat)                                   |
 
-[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/xavierrabert/) [![Contact](https://skillicons.dev/icons?i=gmail)](mailto:xrabert@gmail.com)
+---
 
-### My Skills:
+## Tech stack
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,git,react,angular,vue,astro,jest,laravel,mongodb,mysql,php,materialui,styledcomponents,tailwind,bootstrap&perline=9)
+<div align="center">
+ 
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,vue,astro&perline=8)
+![Skills](https://skillicons.dev/icons?i=nodejs,jest,php,laravel,mysql,mongodb,git,github&perline=8)
+![Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,materialui,styledcomponents,figma,vscode&perline=8)
+ 
+</div>
+ 
+---
+ 
+## Currently
+ 
+- 🔭 Working as a **Frontend Developer**
+- 📐 Going deeper into **Angular** and **Astro**
+- 🤖 Exploring **AI integration** and **workflow automation**
+- 🤝 Open to collaborating on interesting projects
+ 
+---
+ 
+ 
+## Let's work together
+ 
+I'm open to **freelance projects**, **collaborations** or just a good tech conversation.
+ 
+📬 Reach me at [xrabert@gmail.com](mailto:xrabert@gmail.com) · [linkedin.com/in/xavierrabert](https://www.linkedin.com/in/xavierrabert/) · [xavierrabert.com](https://www.xavierrabert.com)
+ 
+---
+ 
+<div align="center">
+<sub>Always learning · Always building</sub>
+</div>
